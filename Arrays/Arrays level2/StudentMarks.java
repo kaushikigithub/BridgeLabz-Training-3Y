@@ -63,5 +63,5 @@ public class StudentMarks {
         }
 
         sc.close();
-    }
+    } 
 }
