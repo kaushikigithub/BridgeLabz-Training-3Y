@@ -40,3 +40,4 @@ class ShoppingCart {
         cart1.displayTotalCost();
     }
 }
+ 
